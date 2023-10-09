@@ -1,0 +1,35 @@
+{
+    "name": "virtualguide",
+    "short_name": "virtualguide",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Discover VirtualGuide, the intelligent chatbot app that offers personalized assistance and expert knowledge. With AI-powered technology, it provides prompt and accurate responses to your queries. From travel tips to product advice, VirtualGuide is your reliable digital companion. Experience the convenience of tailored guidance and real-time information. Get VirtualGuide, your trusted virtual assistant.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
